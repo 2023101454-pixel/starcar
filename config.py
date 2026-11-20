@@ -5,7 +5,7 @@
 # ============================================================
 
 # Pega aquí tu API key de Groq (https://console.groq.com/keys)
-GROQ_API_KEY = ""
+GROQ_API_KEY = "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"
 
 
 # Modelo principal y de respaldo
