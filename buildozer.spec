@@ -6,6 +6,7 @@ source.dir = .
 source.include_exts = py,txt
 version = 1.1
 requirements = python3,kivy==2.3.0,pyjnius,pyserial,requests,plyer,usb4a,usbserial4a,android
+p4a.branch = release-2024.01.21
 orientation = landscape
 fullscreen = 0
 android.permissions = INTERNET,RECORD_AUDIO
